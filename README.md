@@ -1,7 +1,7 @@
 <div align="center"> <img width="600px" src="https://github.com/JAKUAN-AHMED/HTML-CSS-PROJECT/blob/main/images/headpic.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Jakuan Ahmed</h1>
 
-<h3 align="center">A passionate web developer and a programmer</h3>
+<h3 align="center">💻A passionate web developer and a programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakuan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="jakuan-ahmed" /> </p>
 
