@@ -1,4 +1,4 @@
-<div align="center"> <img width="800px" src="https://github.com/JAKUAN-AHMED/HTML-CSS-PROJECT/blob/main/images/headpic.jpg"> </div>
+<div align="center"> <img width="600px" src="https://github.com/JAKUAN-AHMED/HTML-CSS-PROJECT/blob/main/images/headpic.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Jakuan Ahmed</h1>
 
 <h3 align="center">A passionate web developer and a programmer</h3>
