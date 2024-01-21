@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakuan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="jakuan-ahmed" /> </p>
 
-- 🔭 I’m currently working on [Panguin Fashion with Tailwind](https://github.com/JAKUAN-AHMED/panguin-fashion-with-tailwind)
+- 🔭 I’m currently working on [BIKER-ZONE](https://github.com/JAKUAN-AHMED/biker-zone-project)
 
 - 🌱 I’m currently learning **Web design and and Development.**
 
