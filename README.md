@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jakuan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakuan ahmed" height="30" width="40" /></a>
+<a href="https://twitter.com/jakuan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakuan ahmed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jakuan-ahmed-0514932a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakuan ahmed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakuan ahmed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakuan ahmed" height="30" width="40" /></a>
@@ -31,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakuan-ahmed&show_icons=true&locale=en" alt="jakuan-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakuan-ahmed&" alt="JAKUAN_AHMED" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakuan-ahmed&" alt="JAKUAN-AHMED" /></p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JAKUAN-AHMED&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
