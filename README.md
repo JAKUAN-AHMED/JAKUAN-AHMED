@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/dark_revenge" target="blank"><img align="center" src="https://icons8.com/icon/4z2zrIWYmGqx/codechef" alt="jakuan ahmed" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dark_revenge" target="blank"><img align="center" src="https://github.com/JAKUAN-AHMED/important-images/blob/main/codechef_pic.png" alt="jakuan ahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/jakuan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakuan ahmed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jakuan-ahmed-0514932a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakuan ahmed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakuan ahmed" height="30" width="40" /></a>
