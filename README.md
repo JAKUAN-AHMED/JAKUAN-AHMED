@@ -1,7 +1,7 @@
 <div align="center"> <img width="700px" height="500px" src="https://github.com/JAKUAN-AHMED/HTML-CSS-PROJECT/blob/main/images/headpic.jpg"> </div>
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
-<h2 align="center">
+<h2 align="center" justify="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jakuan+Ahmed;I+want+to+be+Software+Engineer+in+future;Currently+learning+web+development;I+am+a+Programmer;"></a>
   </h2>
 
