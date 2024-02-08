@@ -1,5 +1,9 @@
 <div align="center"> <img width="700px" height="500px" src="https://github.com/JAKUAN-AHMED/HTML-CSS-PROJECT/blob/main/images/headpic.jpg"> </div>
-<h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 JAKUAN-AHMED�</h1>
+<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
+leetcode: https://leetcard.jacoblin.cool/ -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Sojib+Ahmed+safi;I+want+to+be+Programmer+in+future;I+am+learning+web+development;I+am+a+UI/UX+designer;I+am+a+student"></a>
+  </h2>
 
 <h3 align="center">💻A passionate web developer and a programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
