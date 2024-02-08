@@ -2,7 +2,7 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center" style="padding-left:10px">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+" "+am+" "+Jakuan+" "+Ahmed;I+want+to+be+a+Software+Engineer+in+future;Currently+learning+web+development;I+am+a+Programmer;"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jakuan+Ahmed;I+want+to+be+a+Software+Engineer+in+future;Currently+learning+web+development;I+am+a+Programmer;"></a>
   </h2>
 
 <h3 align="center">💻A passionate web developer and a programmer</h3>
