@@ -40,8 +40,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JAKUAN-AHMED&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<p>Love memories:Error=>400!</p>
 <p align="center" style="padding-left:10px">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jakuan+Ahmed;I+want+to+be+a+Software+Engineer+in+future;Currently+learning+web+development;I+am+a+Programmer;"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Love+Memories;Error+400+!;Digonto+Shesh+Muhurter+prostuti;"></a>
   </p>
 
