@@ -37,8 +37,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&locale=en" alt="JAKUAN-AHMED" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&" alt="JAKUAN-AHMED" /></p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JAKUAN-AHMED&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
 <h3 align="center" style="padding-left:10px">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Love+Memories;Error+400+!;Digonto+Shesh+Muhurter+prostuti;Class+Five;"></a>
