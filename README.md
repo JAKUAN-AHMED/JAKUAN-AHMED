@@ -25,7 +25,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 </p>
 
 <h3 align="left gap-24px">𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎  𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐  𝚙𝚛𝚘𝚏𝚒𝚕𝚎:</h3>
-<p align="left">
+<p align="left gap-12px">
   <a href="https://codeforces.com/profile/rollno_infinity?fbclid=IwAR2XavcKm3sL684hRuv98C4h3id3VxEvis3sjjVte04tv9UJuoogHujtPQI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rollno_infinity" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/rollno_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a><a href="https://leetcode.com/u/nexxerjm111/" target="blank"><img align="center" src="https://i.ibb.co/N6nHP77/leetcode.png" alt="JAKUAN-AHMED" height="30" width="40" /></a> <a href="https://www.codechef.com/users/dark_revenge" target="blank"><img align="center" src="https://github.com/JAKUAN-AHMED/important-images/blob/main/codechef_pic.png" alt="JAKUAN-AHMED" height="30" width="40" /></a>
 </p>
 
