@@ -5,7 +5,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jakuan+Ahmed;I+want+to+be+a+Software+Engineer+in+future;Currently+learning+web+development;I+am+a+Programmer;"></a>
   </h2>
 
-<h3 align="center">💻A passionate web developer and a programmer</h3>
+<h3 align="center">💻𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JAKUAN-AHMED&label=Profile%20views&color=0e75b6&style=flat" alt="JAKUAN-AHMED" /> </p>
 
