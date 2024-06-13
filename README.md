@@ -16,7 +16,19 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - 📫 How to reach me **jakuanultimate777@gmail.com**
 
 - ⚡ Fun fact **Love Money||Honey**
+- 
+### Quick highlights
 
+-   🧩 Experience in Algorithmic Problem Solving (Solved [`800+ problems`](https://github.com/p-nerd/online_judges))
+-   📚 `3+` years of learning experience in Computer Science And Software Development
+-   🌐 `1+` years of Software Development (mainly in Web Development) Experience
+-   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`
+-   💻 Can Develop applications with `JavaScript/TypeScript`, `PHP` Stacks. [Check out my Projects](https://developershihab.com/projects)
+-   🚀 Opensource enthusiast and loves to write elegant code
+-   🍏 Previously Used `Linux` as a primary workstation (2.5 years), Now switched to `macOS`
+-   ✍️ Use [`Neovim`](https://github.com/p-nerd/nvim.conf) as a primary IDE for any kind of development/coding
+
+<hr />
 <h3 align="left">⚡Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/JAKUAN-AHMED-0514932a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>
