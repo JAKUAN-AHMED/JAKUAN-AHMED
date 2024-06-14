@@ -39,7 +39,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - 
 ### Quick highlights
 
--   Solved [`900+ problems`] and Attended Programming Contests
+-   Solved [`1200+ problems`] and Attended Programming Contests
 -   Learning [`Data Structures and Algorithms`](https://github.com/JAKUAN-AHMED/ADVANCE-DSA), `C/C++`.
 -   Use [`Visual Studio Code`] as a primary IDE for programming.
 
