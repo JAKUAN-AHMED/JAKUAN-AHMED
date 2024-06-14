@@ -1,4 +1,24 @@
-<div align="center"> <img width="700px" height="500px" src="https://github.com/JAKUAN-AHMED/HTML-CSS-PROJECT/blob/main/images/headpic.jpg"> </div>
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cout << "Assalamu Alaikum, World! I am Jakuan Ahmed.\n";
+    return 0;
+}
+```
+
+<hr/>
+
+<p align="center">
+                <br>
+                <em>
+                「 I’m Jakuan Ahmed, I am doing a diploma in engineering at Moulvibazar Polytechnic Institute and my major is in Computer Technology. I enjoy coding in C/C++. I also love problem-solving and I do it every day. C was the first programming language I taught myself.</b> 」
+                </em>
+                <br>
+</p>
+
+<hr/>
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center" style="padding-left:10px">
@@ -19,9 +39,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - 
 ### Quick highlights
 
--   🧩 Experience in Algorithmic Problem Solving (Solved [`800+ problems`](https://github.com/p-nerd/online_judges))
--   📚 `3+` years of learning experience in Computer Science And Software Development
--   🌐 `1+` years of Software Development (mainly in Web Development) Experience
+-   🧩 (Solved [`200+ problems`](https://codeforces.com/submissions/rollno_infinity))
+-   📚 `2+` years of learning experience in Computer Science And Software Development
+-   🌐 `0.6+` years of Software Development (mainly in Web Development) Experience
 -   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`
 -   💻 Can Develop applications with `JavaScript/TypeScript`, `PHP` Stacks. [Check out my Projects](https://developershihab.com/projects)
 -   🚀 Opensource enthusiast and loves to write elegant code
