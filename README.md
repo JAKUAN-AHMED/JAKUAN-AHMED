@@ -39,7 +39,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - 
 ### Quick highlights
 
--   🧩 (Solved [`200+ problems`](https://codeforces.com/submissions/rollno_infinity))
+-   🧩I solved ( [`900+ problems`](https://codeforces.com/submissions/rollno_infinity)){Cf}
 -   📚 `2+` years of learning experience in Computer Science And Software Development
 -   🌐 `0.6+` years of Software Development (mainly in Web Development) Experience
 -   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`
@@ -47,6 +47,20 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 -   🚀 Opensource enthusiast and loves to write elegant code
 -   🍏 Previously Used `Linux` as a primary workstation (2.5 years), Now switched to `macOS`
 -   ✍️ Use [`Neovim`](https://github.com/p-nerd/nvim.conf) as a primary IDE for any kind of development/coding
+
+<hr />
+### Problem-Solving:
+
+-   Codeforces : Solved 200+ problems
+-   HackerRank : Solved 200 + problems
+-   CodeChef : Solved 20+ Problems
+-   AtCoder : Solved 34 Problems
+-   LeetCode : Solve 51 Problems
+-   LightOJ : Solved 14 problems
+-   Spoj : Solved 8 Problems
+-   Timus : Solved 2 Problems
+-   UVa : Solved 1 problem
+-   vJUDGE:Solved 176 problems[https://vjudge.net/problem#OJId=All&probNum=&title=&source=&category=solved]
 
 <hr />
 <h3 align="left">⚡Connect with me:</h3>
