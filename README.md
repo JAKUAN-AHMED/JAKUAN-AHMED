@@ -41,15 +41,13 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 -   🧩I solved ( [`900+ problems`](https://codeforces.com/submissions/rollno_infinity))
 -   📚 `2+` years of learning experience in Computer Science And Software Development
--   🌐 `0.6+` years of Software Development (mainly in Web Development) Experience
 -   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`
--   💻 Can Develop applications with `JavaScript/TypeScript`, `PHP` Stacks. [Check out my Projects](https://private-router.netlify.app/)
--   🚀 Opensource enthusiast and loves to write elegant code
--   🍏 Previously Used `Linux` as a primary workstation (2.5 years), Now switched to `macOS`
--   ✍️ Use [`Neovim`](https://github.com/p-nerd/nvim.conf) as a primary IDE for any kind of development/coding
+-   💻 Can Develop applications with `JavaScript,React`. [Check out my Projects](https://private-router.netlify.app/)
+-   ✍️ Use [VS code) as a primary IDE for any kind of development/coding
 
 <hr />
-### Problem-Solving:
+
+### Problem -solving
 
 -   Codeforces : Solved 200+ problems
 -   HackerRank : Solved 200 + problems
