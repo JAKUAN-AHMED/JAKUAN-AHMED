@@ -39,11 +39,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - 
 ### Quick highlights
 
--   🧩I solved ( [`900+ problems`](https://codeforces.com/submissions/rollno_infinity)) on various platform
--   📚 `2+` years of learning experience in Computer Science And Software Development
--   📖 Learned [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript`, `Python`,`Java`
--   💻 Can Develop applications with `JavaScript,React`. [Check out my Projects](https://private-router.netlify.app/)
--   ✍️ Use [VS code) as a primary IDE for any kind of development/coding
+-   Solved [`900+ problems`] and Attended Programming Contests
+-   Learning [`Data Structures and Algorithms`](https://github.com/JAKUAN-AHMED/ADVANCE-DSA), `C/C++`.
+-   Use [`Visual Studio Code`] as a primary IDE for programming.
 
 <hr />
 
