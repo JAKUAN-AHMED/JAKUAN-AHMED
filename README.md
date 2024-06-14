@@ -65,12 +65,12 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <a href="https://www.facebook.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a><a href="https://discord.gg/JAKUAN-AHMED" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>
 </p>
-</hr>
+<hr/>
 <h3 align="left ">⚡𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎  𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐  𝚙𝚛𝚘𝚏𝚒𝚕𝚎:</h3>
 <p align="left ">
   <a href="https://codeforces.com/profile/rollno_infinity?fbclid=IwAR2XavcKm3sL684hRuv98C4h3id3VxEvis3sjjVte04tv9UJuoogHujtPQI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rollno_infinity" height="30" width="40" /></a>   <a href="https://www.hackerrank.com/profile/rollno_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>  <a href="https://leetcode.com/u/nexxerjm111/" target="blank"><img align="center" src="https://i.ibb.co/N6nHP77/leetcode.png" alt="JAKUAN-AHMED" height="30" width="40" /></a>  <a href="https://www.codechef.com/users/dark_revenge" target="blank"><img align="center" src="https://github.com/JAKUAN-AHMED/important-images/blob/main/codechef_pic.png" alt="JAKUAN-AHMED" height="30" width="40" /></a>
 </p>
-</hr>
+<hr/>
 
 <h3 align="left" padding="15px">⚡Languages and Tools:</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
