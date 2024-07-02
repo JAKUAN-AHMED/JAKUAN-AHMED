@@ -86,7 +86,5 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&" alt="JAKUAN-AHMED" /></p>
 <hr/>
 
-<h3 align="center" style="padding-left:10px">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Love+Memories;Error+400+!;Digonto+Shesh+Muhurter+prostuti;Class+Five;"></a>
-  </h3>
+
 
