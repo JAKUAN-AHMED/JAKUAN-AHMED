@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/L0S6GNg/banner-linkdin.png" alt='my image"/>
+<img src="https://i.ibb.co/L0S6GNg/banner-linkdin.png" alt="Banner Image" />
 
 <hr/>
 
