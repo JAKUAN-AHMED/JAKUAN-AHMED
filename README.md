@@ -1,12 +1,4 @@
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-    cout << "Assalamu Alaikum, World! I am Jakuan Ahmed.\n";
-    return 0;
-}
-```
+<img src="https://i.ibb.co/L0S6GNg/banner-linkdin.png" alt='my image"/>
 
 <hr/>
 
