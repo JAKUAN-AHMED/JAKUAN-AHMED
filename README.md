@@ -45,23 +45,23 @@
 
 <hr />
 
-<!-- Contact Information -->
-<h3 align="center">📫 Connect with Me</h3>
+<!-- Connect with Me -->
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="mailto:jakuanultimate777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jakuanultimate777%40gmail.com-red?style=flat&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-jakuanultimate777%40gmail.com-red?style=flat-square&logo=gmail">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/JAKUAN-AHMED-0514932a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jakuan%20Ahmed-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Jakuan%20Ahmed-blue?style=flat-square&logo=linkedin">
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/fullinverse/">
-    <img src="https://img.shields.io/badge/Facebook-Jakuan%20Ahmed-blue?style=flat&logo=facebook">
+    <img src="https://img.shields.io/badge/Facebook-Jakuan%20Ahmed-blue?style=flat-square&logo=facebook">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/fullinverse/">
-    <img src="https://img.shields.io/badge/Instagram-fullinverse-blue?style=flat&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-fullinverse-blue?style=flat-square&logo=instagram">
   </a>&nbsp;&nbsp;
   <a href="https://discord.gg/JAKUAN-AHMED">
-    <img src="https://img.shields.io/badge/Discord-Jakuan%20Ahmed-blue?style=flat&logo=discord">
+    <img src="https://img.shields.io/badge/Discord-Jakuan%20Ahmed-blue?style=flat-square&logo=discord">
   </a>
 </p>
 
@@ -71,16 +71,16 @@
 <h3 align="center">⚡ Competitive Programming Profiles</h3>
 <p align="center">
   <a href="https://codeforces.com/profile/rollno_infinity">
-    <img src="https://img.shields.io/badge/Codeforces-rollno_infinity-blue?style=flat&logo=codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-rollno_infinity-blue?style=flat-square&logo=codeforces">
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/rollno_infinity">
-    <img src="https://img.shields.io/badge/HackerRank-rollno_infinity-blue?style=flat&logo=hackerrank">
+    <img src="https://img.shields.io/badge/HackerRank-rollno_infinity-blue?style=flat-square&logo=hackerrank">
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/nexxerjm111/">
-    <img src="https://img.shields.io/badge/LeetCode-nexxerjm111-blue?style=flat&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-nexxerjm111-blue?style=flat-square&logo=leetcode">
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/dark_revenge">
-    <img src="https://img.shields.io/badge/CodeChef-dark_revenge-blue?style=flat&logo=codechef">
+    <img src="https://img.shields.io/badge/CodeChef-dark_revenge-blue?style=flat-square&logo=codechef">
   </a>
 </p>
 
@@ -107,15 +107,15 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&hide=html&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&theme=radical" alt="GitHub Streak" />
 </p>
 
 <hr />
