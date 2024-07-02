@@ -1,82 +1,121 @@
+<!-- Banner Image -->
 <img src="https://i.ibb.co/L0S6GNg/banner-linkdin.png" alt="Banner Image" />
 
+<!-- Introduction -->
 <hr/>
+<p align="center">
+  <br>
+  <em>
+    「 Hello, I'm Jakuan Ahmed, a passionate web developer pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. I thrive on coding challenges and solving real-world problems with technology. C/C++ enthusiast with a keen interest in web development. 」
+  </em>
+  <br>
+</p>
+<hr/>
+
+<!-- Typing Animation -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jakuan+Ahmed;I+aspire+to+be+a+Software+Engineer;Currently+learning+advanced+web+development;Passionate+about+problem-solving+and+programming;">
+  </a>
+</h2>
+
+<!-- Overview Section -->
+<p align="center">
+  💻 Passionate web developer | Problem solver | Continuous learner
+</p>
+
+<!-- Profile Image -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<!-- Quick Highlights -->
+<h3>Quick Highlights</h3>
+<ul>
+  <li>Solved over 1200 problems and participated in programming contests</li>
+  <li>Currently learning advanced web design and development</li>
+  <li>Proficient in C/C++, JavaScript, ReactJS, and more</li>
+</ul>
+
+<!-- Current Focus -->
+<h3>Current Focus</h3>
+<ul>
+  <li>Enhancing skills in responsive web design with Tailwind CSS and Daisy UI</li>
+  <li>Exploring data structures and algorithms with practical applications</li>
+  <li>Contributing to open-source projects and building robust web applications</li>
+</ul>
+
+<hr />
+
+<!-- Contact Information -->
+<h3 align="center">📫 Connect with Me</h3>
+<p align="center">
+  <a href="mailto:jakuanultimate777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jakuanultimate777%40gmail.com-red?style=flat&logo=gmail">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/JAKUAN-AHMED-0514932a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jakuan%20Ahmed-blue?style=flat&logo=linkedin">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/fullinverse/">
+    <img src="https://img.shields.io/badge/Facebook-Jakuan%20Ahmed-blue?style=flat&logo=facebook">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/fullinverse/">
+    <img src="https://img.shields.io/badge/Instagram-fullinverse-blue?style=flat&logo=instagram">
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.gg/JAKUAN-AHMED">
+    <img src="https://img.shields.io/badge/Discord-Jakuan%20Ahmed-blue?style=flat&logo=discord">
+  </a>
+</p>
+
+<hr />
+
+<!-- Competitive Programming Profiles -->
+<h3 align="center">⚡ Competitive Programming Profiles</h3>
+<p align="center">
+  <a href="https://codeforces.com/profile/rollno_infinity">
+    <img src="https://img.shields.io/badge/Codeforces-rollno_infinity-blue?style=flat&logo=codeforces">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/rollno_infinity">
+    <img src="https://img.shields.io/badge/HackerRank-rollno_infinity-blue?style=flat&logo=hackerrank">
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/nexxerjm111/">
+    <img src="https://img.shields.io/badge/LeetCode-nexxerjm111-blue?style=flat&logo=leetcode">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/dark_revenge">
+    <img src="https://img.shields.io/badge/CodeChef-dark_revenge-blue?style=flat&logo=codechef">
+  </a>
+</p>
+
+<hr />
+
+<!-- Languages and Tools -->
+<h3 align="center">⚙️ Languages and Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://i.ibb.co/nCnXvB2/daisy.png" alt="Daisy UI" width="40" height="40"/>
+</p>
+
+<hr />
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&hide=html" alt="Top Languages" />
+</p>
 
 <p align="center">
-                <br>
-                <em>
-                「 I’m Jakuan Ahmed, I am doing a diploma in engineering at Moulvibazar Polytechnic Institute and my major is in Computer Technology. I enjoy coding in C/C++. I also love problem-solving and I do it every day. C was the first programming language I taught myself.</b> 」
-                </em>
-                <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true" alt="GitHub Stats" />
 </p>
 
-<hr/>
-<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
-leetcode: https://leetcard.jacoblin.cool/ -->
-<h2 align="center" style="padding-left:10px">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jakuan+Ahmed;I+want+to+be+a+Software+Engineer+in+future;Currently+learning+web+development;I+am+a+Programmer;"></a>
-  </h2>
-
-<p align="center">💻𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘸𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘢𝘯𝘥 𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳</p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JAKUAN-AHMED&label=Profile%20views&color=0e75b6&style=flat" alt="JAKUAN-AHMED" /> </p>
-
-- 🔭 I’m currently working on [𝘗𝘳𝘪𝘷𝘢𝘵𝘦 𝘳𝘰𝘶𝘵𝘦𝘴](https://private-router.netlify.app/)
-
-- 🌱 I’m currently learning **Web design and and Development.**
-
-- 📫 How to reach me **jakuanultimate777@gmail.com**
-
-- ⚡ Fun fact **Love Money||Honey**
-- 
-### Quick highlights
-
--   Solved [`1200+ problems`] and Attended Programming Contests
--   Learning [`Data Structures and Algorithms`](https://github.com/JAKUAN-AHMED/ADVANCE-DSA), `C/C++`.
--   Use [`Visual Studio Code`] as a primary IDE for programming.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED" alt="GitHub Streak" />
+</p>
 
 <hr />
-
-### Problem -solving
-
--   Codeforces : Solved 200+ problems
--   HackerRank : Solved 200 + problems
--   CodeChef : Solved 20+ Problems
--   AtCoder : Solved 34 Problems
--   LeetCode : Solve 51 Problems
--   LightOJ : Solved 14 problems
--   Spoj : Solved 8 Problems
--   Timus : Solved 2 Problems
--   UVa : Solved 1 problem
--   vJUDGE:🧩I solved ( [`175+ problems`](https://codeforces.com/submissions/rollno_infinity))
-
-<hr />
-<h3 align="left">⚡Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/JAKUAN-AHMED-0514932a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>
-<a href="https://www.facebook.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fullinverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a><a href="https://discord.gg/JAKUAN-AHMED" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>
-</p>
-<hr/>
-<h3 align="left ">⚡𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎  𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐  𝚙𝚛𝚘𝚏𝚒𝚕𝚎:</h3>
-<p align="left ">
-  <a href="https://codeforces.com/profile/rollno_infinity?fbclid=IwAR2XavcKm3sL684hRuv98C4h3id3VxEvis3sjjVte04tv9UJuoogHujtPQI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rollno_infinity" height="30" width="40" /></a>   <a href="https://www.hackerrank.com/profile/rollno_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="JAKUAN-AHMED" height="30" width="40" /></a>  <a href="https://leetcode.com/u/nexxerjm111/" target="blank"><img align="center" src="https://i.ibb.co/N6nHP77/leetcode.png" alt="JAKUAN-AHMED" height="30" width="40" /></a>  <a href="https://www.codechef.com/users/dark_revenge" target="blank"><img align="center" src="https://github.com/JAKUAN-AHMED/important-images/blob/main/codechef_pic.png" alt="JAKUAN-AHMED" height="30" width="40" /></a>
-</p>
-<hr/>
-
-<h3 align="left" padding="15px">⚡Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/nCnXvB2/daisy.png" alt="daisyui" width="40" height="40"/> </a> </p>
-</hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAKUAN-AHMED&show_icons=true&locale=en&layout=compact" alt="JAKUAN-AHMED" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&locale=en" alt="JAKUAN-AHMED" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&" alt="JAKUAN-AHMED" /></p>
-<hr/>
-
-
-
