@@ -106,16 +106,19 @@
 <hr />
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&hide=html&theme=radical" alt="Top Languages" />
-</p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&hide=html&theme=radical" alt="Top Languages" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&theme=radical" alt="GitHub Streak" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&theme=radical" alt="GitHub Streak" />
+  </p>
+</div>
+
 
 <hr />
