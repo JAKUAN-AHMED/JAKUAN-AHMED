@@ -58,7 +58,7 @@ int main() {
   <a href="mailto:jakuanultimate777@gmail.com">
     <img src="https://img.shields.io/badge/Email-jakuanultimate777%40gmail.com-red?style=flat-square&logo=gmail">
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/JAKUAN-AHMED-0514932a3/">
+  <a href="https://www.linkedin.com/in/jakuanahmed7/">
     <img src="https://img.shields.io/badge/LinkedIn-Jakuan%20Ahmed-blue?style=flat-square&logo=linkedin">
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/fullinverse/">
