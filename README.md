@@ -1,12 +1,12 @@
-<!-- Banner Image -->
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    cout << "Assalamu Alaikum, World! I am Jakuan Ahmed.\n";
+    cout << "Assalamu Alaikum, World! I am Talha Mahmud.\n";
     return 0;
-}```
+}
+```
 
 <!-- Introduction -->
 <hr/>
