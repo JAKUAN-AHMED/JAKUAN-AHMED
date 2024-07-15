@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     cout << "Assalamu Alaikum, World! I am Jakuan Ahmed.\n";
     return 0;
-}
+}```
 
 <!-- Introduction -->
 <hr/>
