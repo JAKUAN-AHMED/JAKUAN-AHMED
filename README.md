@@ -116,10 +116,8 @@ int main() {
 </p>
 
 #### Programming Languages Breakdown:
-[Last Month](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
-![WakaTime Badge](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
+<img src="https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg" alt="WakaTime Badge"/>
 
-<img src="https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg"/>
 
 
 <!-- GitHub Stats -->
