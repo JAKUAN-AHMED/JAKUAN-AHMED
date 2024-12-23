@@ -116,7 +116,10 @@ int main() {
 </p>
 
 
-### :bar_chart: ![WakaTime](https://wakatime.com/badge/JAKUAN-AHMED/waka_67aa44ea-1176-470f-ae98-ae699e6e8d6c.svg)
+### :bar_chart:### :bar_chart: [Coding time in the last month](https://github.com/JAKUAN-AHMED)
+
+![WakaTime](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
+
 
 
 <!--START_SECTION:waka-->
