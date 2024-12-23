@@ -115,18 +115,10 @@ int main() {
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/>
 </p>
 
-
-[Last Month](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
-
----
-
 #### Programming Languages Breakdown:
+[Last Month](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
+![WakaTime Badge](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
 
-```txt
-- **Typescript**: 54 hrs 51 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.79%
-- **Mongoose**: 25 hrs 39 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.80%
-- **JavaScript**: 7 hrs 44 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.76%
-```
 
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: column; align-items: center;">
