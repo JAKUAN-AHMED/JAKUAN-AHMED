@@ -116,7 +116,7 @@ int main() {
 </p>
 
 #### Programming Languages Breakdown:
-[Coding I I have done in recent] (https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
+[Coding I I have done in recent](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
 
 
 
