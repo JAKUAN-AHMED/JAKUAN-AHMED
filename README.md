@@ -116,7 +116,7 @@ int main() {
 </p>
 
 
-![Last Month](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
+[Last Month]https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg
 
 ---
 
