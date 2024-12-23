@@ -115,6 +115,19 @@ int main() {
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/>
 </p>
 
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```txt
+Rust               54 hrs 51 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.79 %
+TeX                25 hrs 39 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.80 %
+Python             18 hrs 1 mins   🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.10 %
+Markdown           11 hrs 36 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.14 %
+Typst              7 hrs 44 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.76 %
+```
+
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p align="center">
