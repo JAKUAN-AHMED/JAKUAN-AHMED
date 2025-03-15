@@ -127,7 +127,7 @@ int main() {
 ☠️[Coding Track](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
 <br/>
 👆
-Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/me).
+Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/@1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4).
 
 
 
