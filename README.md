@@ -127,7 +127,7 @@ int main() {
 ☠️[Coding Track](!https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
 <br/>
 👆
-
+[![wakatime](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)](https://wakatime.com/@1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4)
 
 
 
