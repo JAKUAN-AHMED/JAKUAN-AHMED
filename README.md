@@ -52,6 +52,14 @@ int main() {
 
 <hr />
 
+<!--Next Move-->
+<h3>Next Technology</h3>
+<ul>
+  <li>Eager to Learn SQL soon</li>
+</ul>
+
+<hr />
+
 <!-- Connect with Me -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
