@@ -127,7 +127,7 @@ int main() {
 ☠️[Coding Track](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
 <br/>
 👆
-[![wakatime](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4/project/9e76a1c4-19fe-4fba-b9da-e6b5f7b32aac.svg)](https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4/project/9e76a1c4-19fe-4fba-b9da-e6b5f7b32aac)
+<a href="https://wakatime.com/@1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4"><img src="https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg" alt="Total time coded since Dec 23 2024" /></a>
 
 
 
