@@ -39,15 +39,15 @@ int main() {
 <ul>
   <li>Solved over 1200 problems and participated in programming contests</li>
   <li>Currently learning advanced web design and development</li>
-  <li>Proficient in C/C++, JavaScript, ReactJS, and more</li>
+  <li>Proficient in C/C++, JavaScript, ReactJS and more</li>
 </ul>
 
 <!-- Current Focus -->
 <h3>Current Focus</h3>
 <ul>
   <li>Learning Next.js</li>
-  <li>Exploring data structures and algorithms with practical applications</li>
-  <li>Contributing to open-source projects and building robust web applications</li>
+  <li>Always looking for new opportunity work with team project with good mates</li>
+  <li> building robust web applications</li>
 </ul>
 
 <hr />
