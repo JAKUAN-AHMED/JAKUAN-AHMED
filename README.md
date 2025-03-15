@@ -45,7 +45,7 @@ int main() {
 <!-- Current Focus -->
 <h3>Current Focus</h3>
 <ul>
-  <li>Enhancing skills in responsive web design with Tailwind CSS and Daisy UI</li>
+  <li>Learning Next.js</li>
   <li>Exploring data structures and algorithms with practical applications</li>
   <li>Contributing to open-source projects and building robust web applications</li>
 </ul>
