@@ -123,7 +123,9 @@ int main() {
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="DSA" title="Data Structures & Algorithms" width="40" height="40"/>
 </p>
+
 
 #### Programming Languages Breakdown:
 ☠️[Coding Track](!https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
