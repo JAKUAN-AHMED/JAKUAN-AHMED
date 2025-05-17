@@ -45,7 +45,7 @@ int main() {
 <!-- Current Focus -->
 <h3>Current Focus</h3>
 <ul>
-  <li>Learning Next.js</li>
+  <li>Learning SQL</li>
   <li>Always looking for new opportunity work with team project with good mates</li>
   <li> building robust web applications</li>
 </ul>
@@ -55,7 +55,7 @@ int main() {
 <!--Next Move-->
 <h3>Next Technology</h3>
 <ul>
-  <li>Eager to Learn SQL soon</li>
+  <li>Eager to Learn System Design soon</li>
 </ul>
 
 <hr />
