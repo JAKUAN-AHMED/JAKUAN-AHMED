@@ -39,13 +39,13 @@ int main() {
 <ul>
   <li>Solved over 1200 problems and participated in programming contests</li>
   <li>Currently learning advanced web design and development</li>
-  <li>Proficient in C/C++, JavaScript, ReactJS and more</li>
+  <li>Proficient in C/C++, TypeScript, NextJs, MySQL,ExpressJs,Primsa ORM and more</li>
 </ul>
 
 <!-- Current Focus -->
 <h3>Current Focus</h3>
 <ul>
-  <li>Learning SQL</li>
+  <li>Learning PostgreSQL</li>
   <li>Always looking for new opportunity work with team project with good mates</li>
   <li> building robust web applications</li>
 </ul>
