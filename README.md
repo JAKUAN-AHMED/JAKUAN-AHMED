@@ -40,6 +40,7 @@ int main() {
   <li>Solved over 1200 problems and participated in programming contests</li>
   <li>Currently learning advanced web design and development</li>
   <li>Proficient in C/C++, TypeScript, NextJs, MySQL,ExpressJs,Primsa ORM,MongoDB,Mongoose and more</li>
+    <li>Extras : WebSocket,Socket.io,Stripe payment integration</li>
 </ul>
 
 <!-- Current Focus -->
@@ -125,6 +126,8 @@ int main() {
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="DSA" title="Data Structures & Algorithms" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
+
 </p>
 
 
