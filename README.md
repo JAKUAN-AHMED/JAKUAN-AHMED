@@ -143,11 +143,17 @@ int main() {
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&theme=dark&count_private=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JAKUAN-AHMED&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKUAN-AHMED&layout=compact&theme=dark" />
+</p>
+
 
 
 </div>
