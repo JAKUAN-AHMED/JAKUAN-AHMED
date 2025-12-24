@@ -147,12 +147,19 @@ int main() {
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JAKUAN-AHMED&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAKUAN-AHMED&theme=radical" alt="GitHub Streak" />
-  </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=JAKUAN-AHMED&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 </div>
 
 
