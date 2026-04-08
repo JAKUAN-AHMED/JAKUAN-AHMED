@@ -135,10 +135,6 @@ int main() {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<p align="center">
-  ⚡ Vertical Scaling (EC2 Resource Optimization) • Horizontal Scaling Basics • Load Balancing • System Design Fundamentals
-</p>
-
 #### Programming Languages Breakdown:
 ☠️[Coding Track](!https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
 <br/>
