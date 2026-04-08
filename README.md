@@ -46,7 +46,7 @@ int main() {
 <!-- Current Focus -->
 <h3>Current Focus</h3>
 <ul>
-  <li>Learning PostgreSQL</li>
+  <li>Learning AI/ML</li>
   <li>Always looking for new opportunity work with team project with good mates</li>
   <li> building robust web applications</li>
 </ul>
