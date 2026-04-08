@@ -39,7 +39,7 @@ int main() {
 <ul>
   <li>Solved over 1200 problems and participated in programming contests</li>
   <li>Currently learning advanced web design and development</li>
-  <li>Proficient in C/C++, TypeScript, NextJs, MySQL,ExpressJs,Primsa ORM,MongoDB,Mongoose and more</li>
+  <li>Proficient in C/C++, TypeScript,MySQL,ExpressJs,Primsa ORM,MongoDB,Mongoose,AWS EC2,S3,Vertical Scalling to EC2 Instance and more</li>
     <li>Extras : WebSocket,Socket.io,Stripe payment integration</li>
 </ul>
 
