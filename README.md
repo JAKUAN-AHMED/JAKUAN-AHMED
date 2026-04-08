@@ -126,11 +126,18 @@ int main() {
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="DSA" title="Data Structures & Algorithms" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
 
 </p>
 
+<h3 align="center">☁️ Cloud & Scaling</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
 
+<p align="center">
+  ⚡ Vertical Scaling (EC2 Resource Optimization) • Horizontal Scaling Basics • Load Balancing • System Design Fundamentals
+</p>
 
 #### Programming Languages Breakdown:
 ☠️[Coding Track](!https://wakatime.com/badge/user/1f99e3c3-a0b5-4fbd-a0bf-2fad9df437e4.svg)
